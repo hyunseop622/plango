@@ -7,3 +7,6 @@ whoever work on this porject will be listed their github account as a contributo
 
 ### so far the progress
 I personally designed backend roughly.
+
+### SERVER [LINK](https://github.com/hyunseop622/plango-server)
+### APP
