@@ -27,4 +27,4 @@ The backend has been roughly designed and is currently being expanded and refine
 The frontend is in progress, need to be tested with server.
 
 ### [SERVER REPO](https://github.com/hyunseop622/plango-server)
-### APP
+### [APP REPO](https://github.com/chldnjswo/plango-app)
